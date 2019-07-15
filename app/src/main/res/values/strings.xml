@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">501 Darts</string>
+    <string name="noCheckout">No checkout</string>
+    <string name="average">Avg :</string>
+    <string name="darts">Darts :</string>
+    <string name="highOut">Highest out :</string>
+    <string name="legs">Legs :</string>
+    <string name="sets">Sets :</string>
+    <string name="hundreds">100s :</string>
+    <string name="oneForties">140s :</string>
+    <string name="oneEighties">180s :</string>
+    <string name="currentHigh">The current high out is :</string>
+
+    <string-array name="name_Array">
+    <item>Danny</item>
+    <item>Mark</item>
+    <item>Steve</item>
+    </string-array>
+</resources>
